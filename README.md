@@ -1,5 +1,5 @@
 # Mini Projet
-## (it's just a project for my school)
+### (it's just a project for my school)
 [![Développement Web](https://img.shields.io/badge/HTML-CSS-yellow)](https://www.w3.org/)
 [![PHP SQL](https://img.shields.io/badge/PHP-MySQL-8A2BE2)](https://www.php.net/)
 ## 📄Introduction
